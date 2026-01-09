@@ -95,5 +95,5 @@ https://ethereum.org/developers/learning-tools/
 OpenZeppelin Contracts & Guides – Industry-standard libraries and guides focused on writing secure and reusable smart contracts.
 https://docs.openzeppelin.com/contracts/learn
 
-CryptoZombies – An interactive, game-based tutorial that introduces smart contract development through hands-on practice.
+CryptoZombies – An interactive, game-based tutorial that introduces smart contract development through hands-on practice
 https://cryptozombies.io/
